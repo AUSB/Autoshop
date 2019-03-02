@@ -1,4 +1,4 @@
-package eecs2030.lab4;
+package ;
 
 /**
  * A class that represents a Vehicle.
